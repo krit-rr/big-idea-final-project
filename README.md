@@ -14,6 +14,7 @@ Links to Datasets:
 - [Locations of Greenways](https://github.com/krit-rr/big-ideas-final-project/blob/main/greenways-locations-pgh.csv)
 - [Locations of Recycling Centers](https://github.com/krit-rr/big-ideas-final-project/blob/main/recyling-centers-locations-pgh.csv)
 - [Locations of Smart Trash Containers](https://github.com/krit-rr/big-ideas-final-project/blob/main/smart-trash-locations-pgh.csv)
+
 More information about our datasets/submetrics can be found in final-project-notebook.ipynb
 
 #### Conclusion
