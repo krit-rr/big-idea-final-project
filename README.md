@@ -1,7 +1,6 @@
 ### CMPINF 0010 (Big Ideas) Final Project
 
-
-#### Team Name: Green Team
+#### Team Name: Green Team [#39]
 - Krit Ravichander: krit.rr@pitt.edu
 - Anirudh Iyer:
 - Chase Cooper:
@@ -11,9 +10,11 @@ Our project is to answer "What is the best neighborhood in Pittsburgh?" with our
 
 #### Datasets / Submetrics and Methodology
 Links to Datasets:
-- [green-spaces-locations-pgh.csv](https://github.com/krit-rr/big-ideas-final-project/blob/main/green-spaces-locations-pgh.csv)
-
-Information about our datasets/submetrics can be found in final-project-notebook.ipynb
+- [Locations of Green Spaces](https://github.com/krit-rr/big-ideas-final-project/blob/main/green-spaces-locations-pgh.csv)
+- [Locations of Greenways](https://github.com/krit-rr/big-ideas-final-project/blob/main/greenways-locations-pgh.csv)
+- [Locations of Recycling Centers](https://github.com/krit-rr/big-ideas-final-project/blob/main/recyling-centers-locations-pgh.csv)
+- [Locations of Smart Trash Containers](https://github.com/krit-rr/big-ideas-final-project/blob/main/smart-trash-locations-pgh.csv)
+More information about our datasets/submetrics can be found in final-project-notebook.ipynb
 
 #### Conclusion
 The best neighborhood is East Liberty!
