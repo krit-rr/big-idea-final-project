@@ -2,8 +2,7 @@
 
 #### Team Name: Green Team [#39]
 - Krit Ravichander: krit.rr@pitt.edu
-- Anirudh Iyer:
-- Chase Cooper:
+- Anirudh Iyer: anirudhiyer@pitt.edu
 
 #### Overview
 Our project is to answer "What is the best neighborhood in Pittsburgh?" with our own metric to decide "bestness" and then at least three datasets with submetrics to support our argument. Our metric is which neighborhood is the most "green".
